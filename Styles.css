@@ -1,0 +1,19 @@
+table{
+    color: crimson;
+    font-family: fantasy;
+    border-style: stroke;
+    
+}
+tr. alt td{
+    background-color: #9AEFFC;
+}
+
+ul{
+    list-style-type: circle;
+    font-family: impact:fantasy;
+    font-size: 20px;
+    font-style: bold;
+    color: chartreuse;
+}
+
+    
